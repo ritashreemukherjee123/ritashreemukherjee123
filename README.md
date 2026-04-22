@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of B.Tech degree with discipline CSE(AIML).<br>I am a keen interest in AI, ML, and Data Analytics.<br>I am currently strengthening my Data Analytics tech stack, like <br>Excel, Python, SQL, Statistics, and PowerBI.<br>I am currently building Customer Churn Analysis project.<br>Further details of the project will be updated.
+I am a B.Tech student with discipline CSE(AIML).<br>I am a keen interest in AI, ML, and Data Analytics.<br>I am currently strengthening my Data Analytics tech stack, like <br>Excel, Python, SQL, Statistics, and PowerBI.<br>I am currently building Customer Churn Analysis project.<br>Further details of the project will be updated.
 
 
 ## 🌐 Socials:
