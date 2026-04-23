@@ -10,6 +10,8 @@ I am a B.Tech student with discipline CSE(AIML).<br>I have a keen interest in AI
 
 ### 📊 Projects:
 **[Customer Churn Analysis](https://github.com)** 
+
+
 ![SQL](https://shields.io) ![Python](https://shields.io) ![Scikit-Learn](https://shields.io)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
