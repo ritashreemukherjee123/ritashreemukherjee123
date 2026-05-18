@@ -15,7 +15,8 @@ I am a B.Tech student in discipline CSE(AIML).<br>I have a keen interest in AI, 
 ## 🏆 Achievements:  
 1) IBM SkillsBuild Badge for Data Literacy
  (https://www.linkedin.com/posts/ritashree-mukherjee-669939320_data-literacy-was-issued-by-ibm-skillsbuild-share-7457017296411103232-teVS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFL33EBSpIl59uZ5wtzSr-ealllZBCxghA)
-
+2) SQL(Basics) Certification from HackerRank
+   (https://www.hackerrank.com/certificates/347fd036d4b9)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
