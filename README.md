@@ -19,5 +19,8 @@ I am a B.Tech student in discipline CSE(AIML).<br>I have a keen interest in AI, 
 2) SQL(Basics) Certification from HackerRank.
    (https://www.hackerrank.com/certificates/347fd036d4b9)
 
+3) AI Fluency: Frameworks & Foundations(Anthropic).
+   (https://www.linkedin.com/feed/update/urn:li:activity:7480492029437886465/)
+
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
