@@ -11,7 +11,8 @@ I am a B.Tech student in discipline CSE(AIML).<br>I have a keen interest in AI, 
 ### 📊 Projects:
 
 **[Customer Churn Analysis](https://github.com)** where I have used Mysql and Python for analysis. ML Model "Logistic Regression" has been used for advanced Predictive Analytics. 
-**[Applied Search Intelligence: Google Search Ranking Discoverability](https://github.com/ritashreemukherjee123/Project-1-Applied-Search-Intelligence-Google-Search-Ranking-Discoverability.-) is the project that I am currently building, and learning from, under my AI Internship (ML focused) in Flyrank AI.
+
+**[Applied Search Intelligence: Google Search Ranking Discoverability](https://github.com/ritashreemukherjee123/Project-1-Applied-Search-Intelligence-Google-Search-Ranking-Discoverability.-)** is the project that I am currently building, and learning from, under my AI Internship (ML focused) in Flyrank AI.
 ## 🏆 Achievements:  
 1) IBM SkillsBuild Badge for Data Literacy.
  (https://www.linkedin.com/posts/ritashree-mukherjee-669939320_data-literacy-was-issued-by-ibm-skillsbuild-share-7457017296411103232-teVS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFL33EBSpIl59uZ5wtzSr-ealllZBCxghA)
