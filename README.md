@@ -23,5 +23,9 @@ I am a B.Tech student in discipline CSE(AIML).<br>I have a keen interest in AI, 
 3) AI Fluency: Frameworks & Foundations(Anthropic).
    (https://www.linkedin.com/feed/update/urn:li:activity:7480492029437886465/)
 
+4) Introduction to Natural Language Processing.(NLP)
+   ([Introduction_to_Natural_Language_Processing.pdf](https://github.com/user-attachments/files/30619261/Introduction_to_Natural_Language_Processing.pdf)
+
+
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 
