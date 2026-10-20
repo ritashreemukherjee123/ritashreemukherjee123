@@ -26,5 +26,5 @@ I am a B.Tech student in discipline CSE(AIML).<br>I have a keen interest in AI, 
    
 4) Pragati:Path To Future - Cohort 9 conducted by Infosys Springboard (where, I have learnt and have taken some amazing courses on Data Science, and AI. It was a good learning experience.)  [https://www.linkedin.com/feed/update/urn:li:activity:7516759518635184129/]
 
-[![Profile views](https://komarev.com/ghpvc/?username=ritashreemukherjee&color=FAC151)](https://github.com/ritashreemukherjee
+[![Profile views](https://komarev.com/ghpvc/?username=ritashreemukherjee&color=FAC151)](https://github.com/ritashreemukherjee)
 
