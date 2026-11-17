@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a B.Tech student in discipline CSE(AIML).<br>I have a keen interest in AI, ML, and Data Analytics.<br>I am currently strengthening my Data Analytics tech stack knowledge, like <br>Excel, Python, SQL, Statistics, and PowerBI.<br>I am currently an AI Intern (ML focused) at Flyrank AI, where I am currently following ML, and General Fluency tracks as part of my internship, where I not just code, but learn to frame a problem, and understand insights and decisions.
+I am a recent B.Tech graduate in discipline CSE(AIML).<br>I have a keen interest in AI, ML, and Data Analytics.<br>I am currently strengthening my Data Analytics tech stack knowledge, like <br>Python, SQL, Statistics.<br>I am currently an AI Intern (ML focused) at Flyrank AI, where I am currently following ML, and General Fluency tracks as part of my internship, where I not just code, but learn to frame a problem, and understand insights and decisions.
+I like other fields too, and would love to learn and research in areas like Bioinformatics, and AI - driven Cybersecurity in the future.
 
 
 ## 🌐 Socials:
